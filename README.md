@@ -536,5 +536,3 @@ a.btn-tambah:hover {
 
 **Tampilan Tambahkan Prodak**
 <img width="516" height="565" alt="Screenshot 2025-11-21 232813" src="https://github.com/user-attachments/assets/776d3b81-96bf-4dab-a926-62eedfcb067c" />
-
-
